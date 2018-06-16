@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/red"
+        android:title="Aboutus">
+
+    </item>
+    <item android:id="@+id/green"
+        android:title="Login/Signup">
+
+    </item>
+    <item android:id="@+id/black"
+        android:title="HOW HOPE??">
+
+    </item>
+    <item android:id="@+id/brown"
+        android:title="Motto/objective">
+
+    </item>
+
+</menu>
